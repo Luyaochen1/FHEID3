@@ -5,7 +5,7 @@ myBinID3.cpp - ID 3 decision tree over plaintext
 
 myFHEID3.cpp - ID 3 decision tree over HElib FHE
 
-compile & link 
+compile & link of myFHEID3.cpp
 
 g++ -I/home/users/HELibSrc -O0 -g -c -fmessage-length=0 -std=c++11 -MMD -MP -MF"myFHEID3.d" -MT"myFHEID3.o" -o "myFHEID3.o" "../myFHEID3.cpp"
 
